@@ -1,0 +1,6 @@
+selenium==3.141
+urllib3==1.24.2
+requests
+nose
+nose-xunitmp==0.4.0
+
